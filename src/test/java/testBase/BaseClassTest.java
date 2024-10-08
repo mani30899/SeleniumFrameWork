@@ -38,6 +38,7 @@ public class BaseClassTest {
 		FileReader file = new FileReader(".\\src\\test\\resources\\config.properties");
 		prot = new Properties();
 		prot.load(file);
+		
 
 		// loading config files
 
